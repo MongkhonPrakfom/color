@@ -33,6 +33,7 @@
     background-color: #ff8177;
     background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
     background-size: 100%;
+    background-clip: text;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -235,6 +236,7 @@
         #ff6a00, 
         #ee0979);
     background-size: 100%;
+    background-clip: text;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -252,7 +254,8 @@
         to right, 
         #9114ff, 
         #da22ff);
-        background-size: 100%;
+    background-size: 100%;
+    background-clip: text;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -307,6 +310,7 @@
         #ff087b 0%, 
         #ed1a52 100%);
     background-size: 100%;
+    background-clip: text;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -318,6 +322,7 @@
 .main__content h2 {
     font-size: 4rem;
     background: #ff8177;
+    background-clip: text;
     background: -webkit-linear-gradient(
         to right, 
         #9114ff, 
@@ -326,7 +331,8 @@
         to right, 
         #8f0eff, 
         #da22ff);
-        background-size: 100%;
+    background-size: 100%;
+    background-clip: text;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -342,6 +348,7 @@
 .main__btn {
     font-size: 1.8rem;
     background: #833ab4;
+    background-clip: text;
     background: -webkit-linear-gradient(
         to right,
         #fcb045, 
@@ -414,6 +421,7 @@
 
 #card-2 {
     background: #ff512f;
+    background-clip: text;
     background: -webkit-linear-gradient(
         to right,
         #dd2476, 
@@ -509,6 +517,7 @@
     background-color: #ff8177;
     background-image: linear-gradient(to top, #ff0844 0%, #f7673c 100%);
     background-size: 100%;
+    background-clip: text;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
